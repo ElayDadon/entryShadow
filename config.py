@@ -1,0 +1,3 @@
+EMAIL_ADDRESS = "YOUR_USERNAME"
+EMAIL_PASSWORD = "YOUR_PASSWORD"
+Time_For_Report = 60  # as in seconds
